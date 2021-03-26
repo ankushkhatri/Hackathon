@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[103],{"1svy":function(n,w,o){(window.__NEXT_P=window.__NEXT_P||[]).push(["/terms",function(){return o("r6nA")}])},r6nA:function(n,w,o){"use strict";o.r(w);var r=o("+03r");w.default=r.default}},[["1svy",0,1,5,2,3,6,4,9,7,8,10,11,41]]]);
